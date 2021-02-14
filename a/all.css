@@ -1432,6 +1432,6 @@ body, button {
   background: url("../img/mute.png") left center no-repeat;
   display: none;
 }
-/* #text-70{
+#text-70{
   font-size: 20px;
-} */
+}
